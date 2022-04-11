@@ -1,6 +1,6 @@
 ---
 # The Apache Kafka version to be downloaded and installed
-kafka_version: 2.3.0
+kafka_version: 3.0.1
 kafka_scala_version: 2.12
 
 # The kafka user and group to create files/dirs with and for running the kafka service
